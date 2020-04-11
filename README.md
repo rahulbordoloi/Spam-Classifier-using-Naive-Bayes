@@ -7,4 +7,4 @@ Notebook used : Google Colab
 
 To Predict: if an email/message is spam or ham.
 
->>Install the dependencies from your terminal with "pip install -r requirements.txt
+>>Install the dependencies from your terminal with "pip install -r requirements.txt"
