@@ -1,4 +1,4 @@
-# Spam-Classifier
+# Spam-Classifier-using-Naive-Bayes
 A Basic Machine Learning using Naive Bayes' Algorithm                        
 Notebook used : Google Colab
 
